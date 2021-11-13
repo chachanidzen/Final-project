@@ -1,4 +1,6 @@
-.idea
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
 target
 allure-results
 build
